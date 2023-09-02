@@ -7,6 +7,8 @@
     <orderEntry type="jdk" jdkName="Python 3.11 (PYTEST_JULY)" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="module" module-name="PYTHON CT15" />
+    <orderEntry type="module" module-name="pythonProject" />
+    <orderEntry type="module" module-name="Pytest_August" />
   </component>
   <component name="PackageRequirementsSettings">
     <option name="requirementsPath" value="" />

@@ -1,0 +1,1 @@
+substraction Od A And B = -4
