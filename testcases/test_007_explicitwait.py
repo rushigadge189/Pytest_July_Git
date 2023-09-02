@@ -25,7 +25,7 @@ class Test_007_explicit_wait() :
         driver.find_element(By.XPATH, '//div[text()="RUN SPEED TEST"]').click() ;
 
         try:
-            wait=WebDriverWait(driver,25,poll_frequency=0.5) ;
+            wait=WebDriverWait(driver,40,poll_frequency=0.5) ;
             wait.until(expected_conditions.visibility_of_element_located((By.XPATH, '//div[text()="TEST AGAIN"]'))) ;
 
             downspeed=driver.find_element(By.XPATH, '//div[@class="oyUhj"]').text ;
