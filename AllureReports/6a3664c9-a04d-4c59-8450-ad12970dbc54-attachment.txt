@@ -1,7 +1,0 @@
-[9199.96, 399.96, 2399.97]
-Exp_subtotal =  11999.89
-System Value =  [11999.89, 1559.99, 13559.88]
-Value Is Match
-Final Ammount =  1559.99
-Discount =  1559.99
-Discount Is Matched
