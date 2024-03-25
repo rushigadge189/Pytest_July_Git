@@ -1,7 +1,7 @@
 import pytest
 
 
-class Test_py__015_markers():
+class Test_py_015_markers():
     def test_add(self):
         a=10;
         b=5;
@@ -40,6 +40,6 @@ class Test_py__015_markers():
         div=a/b;
         print('DIVISION=',div) ;
         if(div==2) :
-            assert True;
+            assert True ;
         else:
             assert  False ;

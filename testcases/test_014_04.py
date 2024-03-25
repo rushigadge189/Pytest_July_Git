@@ -37,7 +37,6 @@ class Test_py_04():
 
         if( driver.title=='ParaBank | Transfer Funds' ) :
 
-
             time.sleep(1) ;
             driver.find_element(By.XPATH, '//input[@id="amount"]').send_keys('100') ;
             time.sleep(2) ;

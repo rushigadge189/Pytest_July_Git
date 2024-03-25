@@ -1,0 +1,22 @@
+ INFO : Test_20_logger : test_20_url : 14 : THIS IS THE INFO 
+ WARNING : Test_20_logger : test_20_url : 15 : THIS IS WARNING 
+ ERROR : Test_20_logger : test_20_url : 16 : THIS IS ERROR 
+ CRITICAL : Test_20_logger : test_20_url : 17 : THIS IS CRITICAL 
+ INFO : Test_20_logger : test_20_url : 20 : TEST CASE FOR URL IS STARTED 
+ INFO : Test_20_logger : test_20_url : 24 : OPENING TEH BROWSER 
+ INFO : Test_20_logger : test_20_url : 25 : ENETRING THE URL 
+ INFO : Test_20_logger : test_20_url : 29 : CHECKING PAGE TITLEParaBank | About Us 
+ INFO : Test_20_logger : test_20_url : 33 : TAKING THE SCREENSHOT 
+ INFO : Test_20_logger : test_20_url : 41 : TEST CASE FOR URL TESTING IS PASSED 
+ INFO : Test_20_logger : test_20_url : 54 : TEST CASE FOR URL IS COMPLETED 
+ INFO : Test_20_logger : test_20_login : 58 : TEST CASE FOR LOGIN IS STARTED 
+ INFO : Test_20_logger : test_20_login : 60 : OPENING TEH BROWSER 
+ INFO : Test_20_logger : test_20_login : 64 : ENTERING THE URL 
+ INFO : Test_20_logger : test_20_login : 68 : ENTERING THE USERNAME 
+ INFO : Test_20_logger : test_20_login : 72 : ENTERING THE PASSWORD 
+ INFO : Test_20_logger : test_20_login : 76 : CLICK ON LOGIN BUTTON 
+ INFO : Test_20_logger : test_20_login : 80 : CHECKING THE STATUS 
+ INFO : Test_20_logger : test_20_login : 83 : TAKING THE SCREENSHOT  
+ INFO : Test_20_logger : test_20_login : 88 : LOGOUT FROM THE APPLICATION 
+ INFO : Test_20_logger : test_20_login : 93 : TEST CASE FOR LOGIN IS PASSED 
+ INFO : Test_20_logger : test_20_login : 107 : TEST CASE FOR LOGIN IS COMPLETED 

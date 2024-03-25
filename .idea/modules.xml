@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/../PYTHON CT15/FINAL_REVISION/.idea/FINAL_REVISION.iml" filepath="$PROJECT_DIR$/../PYTHON CT15/FINAL_REVISION/.idea/FINAL_REVISION.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/PYTEST_JULY.iml" filepath="$PROJECT_DIR$/.idea/PYTEST_JULY.iml" />
       <module fileurl="file://$PROJECT_DIR$/../PYTHON CT15/.idea/PYTHON CT15.iml" filepath="$PROJECT_DIR$/../PYTHON CT15/.idea/PYTHON CT15.iml" />
       <module fileurl="file://$PROJECT_DIR$/../Pytest_August/.idea/Pytest_August.iml" filepath="$PROJECT_DIR$/../Pytest_August/.idea/Pytest_August.iml" />

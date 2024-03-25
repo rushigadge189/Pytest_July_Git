@@ -1,0 +1,11 @@
+[32mINFO    [0m Test_20_logger:test_20_01_logger.py:58 TEST CASE FOR LOGIN IS STARTED
+[32mINFO    [0m Test_20_logger:test_20_01_logger.py:60 OPENING TEH BROWSER
+[32mINFO    [0m Test_20_logger:test_20_01_logger.py:64 ENTER THE URL
+[32mINFO    [0m Test_20_logger:test_20_01_logger.py:68 ENTER THE USERNAME
+[32mINFO    [0m Test_20_logger:test_20_01_logger.py:72 ENTER THE PASSWORD
+[32mINFO    [0m Test_20_logger:test_20_01_logger.py:76 CLICK ON LOGIN BUTTON
+[32mINFO    [0m Test_20_logger:test_20_01_logger.py:80 CHECKING THE STATUS
+[32mINFO    [0m Test_20_logger:test_20_01_logger.py:83 TAKING THE SCREENSHOT 
+[32mINFO    [0m Test_20_logger:test_20_01_logger.py:88 LOGOUT FROM THE APPLICATION
+[32mINFO    [0m Test_20_logger:test_20_01_logger.py:93 TEST CASE FOR LOGIN IS PASSED
+[32mINFO    [0m Test_20_logger:test_20_01_logger.py:107 TEST CASE FOR LOGIN IS COMPLETED

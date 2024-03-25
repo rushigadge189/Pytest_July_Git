@@ -1,0 +1,11 @@
+[32mINFO    [0m Test_20_logger:test_20_01_logger.py:14 THIS IS THE INFO
+[33mWARNING [0m Test_20_logger:test_20_01_logger.py:15 THIS IS WARNING
+[1m[31mERROR   [0m Test_20_logger:test_20_01_logger.py:16 THIS IS ERROR
+[31mCRITICAL[0m Test_20_logger:test_20_01_logger.py:17 THIS IS CRITICAL
+[32mINFO    [0m Test_20_logger:test_20_01_logger.py:20 TEST CASE FOR URL IS STARTED
+[32mINFO    [0m Test_20_logger:test_20_01_logger.py:24 OPENING TEH BROWSER
+[32mINFO    [0m Test_20_logger:test_20_01_logger.py:25 ENETRING THE URL
+[32mINFO    [0m Test_20_logger:test_20_01_logger.py:29 CHECKING PAGE TITLEParaBank | About Us
+[32mINFO    [0m Test_20_logger:test_20_01_logger.py:33 TAKING THE SCREENSHOT
+[32mINFO    [0m Test_20_logger:test_20_01_logger.py:41 TEST CASE FOR URL TESTING IS PASSED
+[32mINFO    [0m Test_20_logger:test_20_01_logger.py:54 TEST CASE FOR URL IS COMPLETED

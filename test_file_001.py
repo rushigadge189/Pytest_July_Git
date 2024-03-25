@@ -27,12 +27,12 @@ class Test_Credence_001 () :
 
         if ( driver.title == 'Credence' ) :
             print ( 'You Are At Credence. in' ) ;
-            assert True ;
-            driver.close()
+            driver.close() ;
+            assert True;
         else :
             print ( 'You Are Entered The Wrong URL' ) ;
-            assert False ;
             driver.close() ;
+            assert False;
 
     def test_sub_003 ( self ) :
         a = 3 ;

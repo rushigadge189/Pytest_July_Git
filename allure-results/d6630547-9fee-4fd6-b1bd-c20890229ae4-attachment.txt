@@ -1,0 +1,11 @@
+[32mINFO    [0m Test_20_02_swag_labs:test_20_02_logger.py:9 TEST CASE IS STARTED
+[32mINFO    [0m Test_20_02_swag_labs:test_20_02_logger.py:11 OPENING THE BROWSER
+[32mINFO    [0m Test_20_02_swag_labs:test_20_02_logger.py:13 NAVIGTE TO THE URL
+[32mINFO    [0m Test_20_02_swag_labs:test_20_02_logger.py:17 ENTERING THE USERNAME
+[32mINFO    [0m Test_20_02_swag_labs:test_20_02_logger.py:20 ENTERING PASSWORD
+[32mINFO    [0m Test_20_02_swag_labs:test_20_02_logger.py:23 CLICK ON THE LOGIN BUTTON
+[32mINFO    [0m Test_20_02_swag_labs:test_20_02_logger.py:27 CHECKING FOR THE STATUS
+[32mINFO    [0m Test_20_02_swag_labs:test_20_02_logger.py:30 TAKING THE SCREENSHOT
+[32mINFO    [0m Test_20_02_swag_labs:test_20_02_logger.py:33 CLICK ON THE HAMBURGERS ICON
+[32mINFO    [0m Test_20_02_swag_labs:test_20_02_logger.py:36 CLICK ON LOGOUT LINK
+[32mINFO    [0m Test_20_02_swag_labs:test_20_02_logger.py:39 PRINTING THE STATUS

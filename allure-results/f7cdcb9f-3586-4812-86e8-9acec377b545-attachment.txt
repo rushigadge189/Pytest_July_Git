@@ -1,0 +1,12 @@
+[32mINFO    [0m Test_20_03_logger_heroku:test_20_03_logger.py:13 TEST CASE IS STARTED
+[32mINFO    [0m Test_20_03_logger_heroku:test_20_03_logger.py:15 OPENING THE BROWSER
+[32mINFO    [0m Test_20_03_logger_heroku:test_20_03_logger.py:17 GO TO THE URL
+[32mINFO    [0m Test_20_03_logger_heroku:test_20_03_logger.py:21 ENTERING THE USERNAME
+[32mINFO    [0m Test_20_03_logger_heroku:test_20_03_logger.py:24 ÉNTERING THEPASSWORD
+[32mINFO    [0m Test_20_03_logger_heroku:test_20_03_logger.py:27 CLICK ON THE LOGIN BUTTON
+[32mINFO    [0m Test_20_03_logger_heroku:test_20_03_logger.py:30 CHECKING FOR THE STATUS
+[32mINFO    [0m Test_20_03_logger_heroku:test_20_03_logger.py:34 TAKING THE SCREENSHOT
+[32mINFO    [0m Test_20_03_logger_heroku:test_20_03_logger.py:38 CLICK ON THE LOGOUT BUTON
+[32mINFO    [0m Test_20_03_logger_heroku:test_20_03_logger.py:41 TEST CASE IS PASSED
+[32mINFO    [0m Test_20_03_logger_heroku:test_20_03_logger.py:53 CLOSING THE BROWSER
+[32mINFO    [0m Test_20_03_logger_heroku:test_20_03_logger.py:56 TEST CASE IS COMPLETED

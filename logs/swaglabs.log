@@ -1,0 +1,26 @@
+INFO : Test_20_02_swag_labs : test_20_02_swaglabs : 9 : TEST CASE IS STARTED
+INFO : Test_20_02_swag_labs : test_20_02_swaglabs : 11 : OPENING THE BROWSER
+INFO : Test_20_02_swag_labs : test_20_02_swaglabs : 13 : NAVIGTE TO THE URL
+INFO : Test_20_02_swag_labs : test_20_02_swaglabs : 17 : ENTERING THE USERNAME
+INFO : Test_20_02_swag_labs : test_20_02_swaglabs : 20 : ENTERING PASSWORD
+INFO : Test_20_02_swag_labs : test_20_02_swaglabs : 23 : CLICK ON THE LOGIN BUTTON
+INFO : Test_20_02_swag_labs : test_20_02_swaglabs : 27 : CHECKING FOR THE STATUS
+INFO : Test_20_02_swag_labs : test_20_02_swaglabs : 30 : TAKING THE SCREENSHOT
+INFO : Test_20_02_swag_labs : test_20_02_swaglabs : 33 : CLICK ON THE HAMBURGERS ICON
+INFO : Test_20_02_swag_labs : test_20_02_swaglabs : 36 : CLICK ON LOGOUT LINK
+INFO : Test_20_02_swag_labs : test_20_02_swaglabs : 39 : PRINTING THE STATUS
+INFO : Test_20_02_swag_labs : test_20_02_swaglabs : 42 : TEST CASE IS PASSD
+INFO : Test_20_02_swag_labs : test_20_02_swaglabs : 55 : CLOSING THE BROSWER
+INFO : Test_20_02_swag_labs : test_20_02_swaglabs : 58 : TEST CASE IS COMPLETED
+INFO : Test_20_03_logger_heroku : test_20_03_heroku : 13 : TEST CASE IS STARTED
+INFO : Test_20_03_logger_heroku : test_20_03_heroku : 15 : OPENING THE BROWSER
+INFO : Test_20_03_logger_heroku : test_20_03_heroku : 17 : GO TO THE URL
+INFO : Test_20_03_logger_heroku : test_20_03_heroku : 21 : ENTERING THE USERNAME
+INFO : Test_20_03_logger_heroku : test_20_03_heroku : 24 : ÉNTERING THEPASSWORD
+INFO : Test_20_03_logger_heroku : test_20_03_heroku : 27 : CLICK ON THE LOGIN BUTTON
+INFO : Test_20_03_logger_heroku : test_20_03_heroku : 30 : CHECKING FOR THE STATUS
+INFO : Test_20_03_logger_heroku : test_20_03_heroku : 34 : TAKING THE SCREENSHOT
+INFO : Test_20_03_logger_heroku : test_20_03_heroku : 38 : CLICK ON THE LOGOUT BUTON
+INFO : Test_20_03_logger_heroku : test_20_03_heroku : 41 : TEST CASE IS PASSED
+INFO : Test_20_03_logger_heroku : test_20_03_heroku : 53 : CLOSING THE BROWSER
+INFO : Test_20_03_logger_heroku : test_20_03_heroku : 56 : TEST CASE IS COMPLETED

@@ -39,6 +39,7 @@ class Test_007_explicit_wait() :
             assert True ;
 
         except:
+
             print('Some Error Occured......!') ;
             driver.save_screenshot("D:\\PYTEST_JULY\\screenshots\\test007_fail.png")
             assert False;
